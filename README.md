@@ -1,4 +1,4 @@
-# Local-hack-Day---Study-Buddy
+# Local-hack-Day---Study-M8
 December 3rd (2016) - Local Hack Day 
 
 Study M8 by Team Queso
