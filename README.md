@@ -1,5 +1,5 @@
 # Study-M8
-##Local Hack Day
+## Local Hack Day
 
 This project comes in two parts:
     1. The Website
@@ -21,5 +21,5 @@ The Google Chrome Extension:
   
 Fill out the: url, userid, tag, comment, and press submit, then check back to the website.
 
-#What does it do?
+## What does it do?
 This website it designed to make studing easier for college students. Taking the ideas of tagging the material you use based on course, the studier and fellow college students can easily access the material which was once helpful to others. Forget the days of googling and endlessly scrolling to figure out what is good to know and quickly access based off simple keyword searches.
