@@ -1,5 +1,28 @@
 # Study-M8
 ## Local Hack Day
+### Developed by: Miranda Saari, Jessi Dowding, Laura McRae and Andres Menezez
+
+#### Study-M8 enables college students to optimize their studying:
+##### Log in to your profile
+##### Personilze your profile
+##### Add the google chrome exstention for easy tagging
+##### Explore an archive of fellow college students study materials
+##### Add tags to your study materials to help others
+
+## Website
+![alt text](http://res.cloudinary.com/dsh22upxw/image/upload/c_scale,w_750/v1507142879/Android%20project/Android%20Project/main.jpg)
+![alt text](http://res.cloudinary.com/dsh22upxw/image/upload/c_scale,w_750/v1507142901/Android%20project/Android%20Project/search.jpg)
+![alt text](http://res.cloudinary.com/dsh22upxw/image/upload/c_scale,w_750/v1507142892/Android%20project/Android%20Project/profile.jpg)
+
+## Chrome Exstension
+![alt text](https://res.cloudinary.com/dsh22upxw/image/upload/c_scale,w_250/v1507143219/Android%20project/Android%20Project/extenstion.jpg)
+![alt text](http://res.cloudinary.com/dsh22upxw/image/upload/c_scale,w_250/v1507143267/Android%20project/Android%20Project/extenstionSubmitted.jpg)
+![alt text](http://res.cloudinary.com/dsh22upxw/image/upload/c_scale,w_750/v1507142913/Android%20project/Android%20Project/extenstionPage.jpg)
+
+## Technologies
+![alt text](http://www.ichnolite.com/html/assets/images/sqllite.png "twilio")
+![alt text](http://www.ichnolite.com/html/assets/images/php.png)
+
 
 This project comes in two parts:
     1. The Website
@@ -21,5 +44,3 @@ The Google Chrome Extension:
   
 Fill out the: url, userid, tag, comment, and press submit, then check back to the website.
 
-## What does it do?
-This website it designed to make studing easier for college students. Taking the ideas of tagging the material you use based on course, the studier and fellow college students can easily access the material which was once helpful to others. Forget the days of googling and endlessly scrolling to figure out what is good to know and quickly access based off simple keyword searches.
